@@ -1,0 +1,43 @@
+// Your First Program
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+static : pie 
+void : each method return one thing
+main method 
+arguments : string args[] (vector of strings)
+constructor : return object of the class
+evrything that cannot be number or char it gonna be object
+
+create an object using constructor 
+
+an object is an instant of class
+
+
+abstraction:
+object : should be black box (need to drive the car and no how the car drives)
+interface
+
+encapsulation : 
+hide internal information from outside
+bank, cars (you dont care about what i made when i build a new car, you just drive)
+
+inheritance:
+studend (superclass), masterstudent (subclasses)
+masterstudent inherites alle the methods exept constructors, ptotected
+
+polymorphism:
+object that can refer to multiple classes
+generic methods (sort the objects that have same type) 
+
+1-attributes
+2-constructor
+3-methods
+
+person is a class when we create an instant it will be an object.
+ 
+
+

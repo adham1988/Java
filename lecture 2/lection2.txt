@@ -1,0 +1,11 @@
+filereader character by character
+
+exception: to recover the program 
+
+the prog throws an error 
+exception: class
+
+throws propagate
+
+
+assertion = tool to check condition
